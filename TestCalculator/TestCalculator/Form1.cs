@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TestCalculator
 {
-    public partial class Form1 : Form
+    public partial class Calc1 : Form
     {
-        public Form1()
+        public Calc1()
         {
             InitializeComponent();
         }

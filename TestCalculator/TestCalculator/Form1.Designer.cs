@@ -1,7 +1,7 @@
 ﻿
 namespace TestCalculator
 {
-    partial class Form1
+    partial class Calc1
     {
         /// <summary>
         /// Required designer variable.
@@ -202,7 +202,7 @@ namespace TestCalculator
             this.button17.Text = "button17";
             this.button17.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // Calc1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -224,8 +224,8 @@ namespace TestCalculator
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Calc1";
+            this.Text = "CALCULATOR";
             this.ResumeLayout(false);
 
         }
